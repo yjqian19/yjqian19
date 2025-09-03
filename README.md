@@ -4,7 +4,8 @@
 🎓 B.Arch, Tsinghua University (2019-2024)  
 💻 Currently SWE Intern @ Crossing Legal AI  
 
-I’m passionate about building **AI-driven SaaS applications**, especially for vertical industry use cases. Before that, I used to be an **XR hacker** — tinkering with interactive games and academic researches. *(Details coming soon)*   
+I’m passionate about building **AI-driven SaaS applications**, especially for vertical industry use cases. Before that, I used to be an **XR hacker** — tinkering with interactive games and academic researches. *(Details coming soon)* 
+
 Outside of work and study, I enjoy **photography** and **cooking**.  
 
 📫 [Email](mailto:yjqian19@gmail.com) | [LinkedIn](https://www.linkedin.com/in/yujia-qian-054a39269/)
