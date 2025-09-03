@@ -2,22 +2,12 @@
 
 🎓 MDes @ Harvard GSD | Cross-registered in MIT CS (2024-2026)  
 🎓 B.Arch, Tsinghua University (2019-2024)  
-💻 Currently SWE Intern @ Crossing Legal  
+💻 Currently SWE Intern @ Crossing Legal AI  
 
-## 🚀 Projects
-- **AI-Driven Software Applications (SaaS)**
-- **Extended Reality**  
-*(Details coming soon…)*  
+I’m passionate about building **AI-driven SaaS applications**, especially for vertical industry use cases. Before that, I used to be an **XR hacker** — tinkering with interactive games and research publishing in TVCG. *(Details coming soon)*   
+Outside of work and study, I enjoy **photography** and **cooking**.  
 
-
-## 🎨 Fun Stuff
-- 📷 Travel & Photography
-- 🍳 Cooking
-
-
-## 📫 Contact
-- [Email](yjqian19@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/yujia-qian-054a39269/) 
+📫 [Email](mailto:yjqian19@gmail.com) | [LinkedIn](https://www.linkedin.com/in/yujia-qian-054a39269/)
 
 
 <!--
