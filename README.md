@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Yujia Qian
 
-🎓 MDes in Technology @ Harvard GSD | Cross-registered in MIT (EECS & Sloan) (2024-2026)  
+🎓 MDes in Technology @ Harvard | Cross-registered in MIT (EECS & Sloan) (2024-2026)  
 🎓 B.Arch, Tsinghua University (2019-2024)  
 💻 Current SWE Intern @ Crossing Legal AI
 
