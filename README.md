@@ -1,7 +1,6 @@
 ## Hi there 👋 I'm Yujia Qian
 
-🎓 MDes @ Harvard GSD | Cross-registered in MIT CS (2024-2026)  
-🎓 B.Arch, Tsinghua University (2019-2024)  
+🎓 Harvard / MIT 26', Tsinghua 19'
 💻 Current SWE Intern @ Crossing Legal AI  
 
 I’m passionate about building **AI-driven SaaS applications**, especially for vertical industry use cases. Before that, I used to be an **XR hacker** — tinkering with interactive games and academic researches.  
