@@ -1,11 +1,14 @@
 ## Hi there 👋 I'm Yujia Qian
 
-🎓 Harvard / MIT 26', Tsinghua 19'
-💻 Current SWE Intern @ Crossing Legal AI  
+🎓 MDes in Technology @ Harvard GSD | Cross-registered in MIT (EECS & Sloan) (2024-2026)  
+🎓 B.Arch, Tsinghua University (2019-2024)  
+💻 Current SWE Intern @ Crossing Legal AI
 
-I’m passionate about building **AI-driven SaaS applications**, especially for vertical industry use cases. Before that, I used to be an **XR hacker** — tinkering with interactive games and academic researches.  
+🚀 I’m passionate about building **AI-driven SaaS applications**, especially for vertical industry use cases. During my internship at Crossing Legal AI, I worked on the **backend** and **agent workflows** of a form-filler app — and I also explored **LLM** applications in my classes and side projects.  
 
-Outside of work and study, I enjoy **photography** and **cooking**.  
+🎮 Previously, I was an XR hacker, tinkering with interactive games and academic research.
+
+📸 Outside of work and study, I love photography and cooking.
 
 📫 [Email](mailto:yjqian19@gmail.com) | [LinkedIn](https://www.linkedin.com/in/yujia-qian-054a39269/)
 
