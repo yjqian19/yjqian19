@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Yujia
+## Hi there 👋 I'm Yujia Qian
 
 🎓 MDes @ Harvard GSD | Cross-registered in MIT CS (2024-2026)  
 🎓 B.Arch, Tsinghua University (2019-2024)  
