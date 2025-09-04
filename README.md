@@ -2,7 +2,7 @@
 
 🎓 MDes in Technology @ Harvard | Cross-registered in MIT (EECS & Sloan) (2024-2026)  
 🎓 B.Arch, Tsinghua University (2019-2024)  
-💻 Current SWE Intern @ Crossing Legal AI
+💻 SWE Intern @ Crossing Legal AI
 
 🚀 I’m passionate about building **AI-driven SaaS applications**, especially for vertical industry use cases. During my internship at Crossing Legal AI, I worked on the **backend** and **agent workflows** of a form-filler app — and I also explored **LLM** applications in my classes and side projects.  
 
