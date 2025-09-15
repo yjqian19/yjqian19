@@ -2,16 +2,15 @@
 
 🎓 MDes in Technology @ Harvard | Cross-registered in MIT (EECS & Sloan) (2024-2026)  
 🎓 B.Arch, Tsinghua University (2019-2024)  
-💻 SWE Intern @ Crossing Legal AI
+💻 SWE Intern @ [Crossing Legal AI](https://github.com/skip-hp)
 
-🚀 I’m passionate about building **AI-driven SaaS applications**, especially for vertical industry use cases. During my internship at Crossing Legal AI, I worked on the **backend** and **agent workflows** of a form-filler app — and I also explored **LLM** applications in my classes and side projects.  
+🚀 I’m passionate about building **AI-driven SaaS applications**, especially for vertical industry use cases.  
 
-- [AI Document Question Answering Agent](https://github.com/yjqian19/mm-agent-chatbot)
-- [Topic-based Group Chat](https://github.com/yjqian19/chatfilter_new)
+🏆 Proudest achievements
+- Industry: As a Software Engineering Intern at Crossing Legal AI, I built the AI backend and agent system for automated legal form-filling workflows.
+- Academic: As a co-first author, I published a paper in _IEEE Transactions on Visualization and Computer Graphics_ (JCR Q1) on multimodal data analysis and LSTM modeling of museum visitor behavior.
 
 🎮 Previously, I was an XR hacker, tinkering with interactive games and academic research.  
-- [MR Drone Agent with Voice and Spatial Control](https://github.com/yjqian19/MRDrone)
-- [CoralCoro: MR Music Game](https://github.com/yjqian19/CoralCoro_Quest_01)
 
 📸 Outside of work and study, I love photography and cooking.
 
