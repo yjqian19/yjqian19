@@ -6,7 +6,12 @@
 
 🚀 I’m passionate about building **AI-driven SaaS applications**, especially for vertical industry use cases. During my internship at Crossing Legal AI, I worked on the **backend** and **agent workflows** of a form-filler app — and I also explored **LLM** applications in my classes and side projects.  
 
-🎮 Previously, I was an XR hacker, tinkering with interactive games and academic research.
+- [AI Document Question Answering Agent](https://github.com/yjqian19/mm-agent-chatbot)
+- [Topic-based Group Chat](https://github.com/yjqian19/chatfilter_new)
+
+🎮 Previously, I was an XR hacker, tinkering with interactive games and academic research.  
+- [MR Drone Agent with Voice and Spatial Control](https://github.com/yjqian19/MRDrone)
+- [CoralCoro: MR Music Game](https://github.com/yjqian19/CoralCoro_Quest_01)
 
 📸 Outside of work and study, I love photography and cooking.
 
