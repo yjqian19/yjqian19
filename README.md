@@ -1,14 +1,14 @@
 ## Hi there 👋 I'm Yujia Qian
 
-🎓 MDes in Technology @ Harvard | Cross-registered in MIT (EECS & Sloan) (2024-2026)  
+🎓 MDes in Technology @ Harvard | Cross-registered in MIT CS (2024-2026)  
 🎓 B.Arch, Tsinghua University (2019-2024)  
 💻 SWE Intern @ [Crossing Legal AI](https://github.com/skip-hp)
 
-🚀 I’m passionate about building **AI-driven SaaS applications**, especially for vertical industry use cases.  
+🚀 I’m passionate about building **AI applications** for **vertical industry** use cases.  
 
 🏆 Proudest achievements
 - Industry: As a Software Engineering Intern at Crossing Legal AI, I built the AI backend and agent system for automated legal form-filling workflows.
-- Academic: As a co-first author, I published a paper in _IEEE Transactions on Visualization and Computer Graphics_ (JCR Q1) on multimodal data analysis and LSTM modeling of museum visitor behavior.
+- Academic: As a co-first author, I published a paper in _IEEE Transactions on Visualization and Computer Graphics_ (JCR Q1) on multimodal data analysis and LSTM modeling of visitor behavior to support museum operations and cultural heritage management.
 
 🎮 Previously, I was an XR hacker, tinkering with interactive games and academic research.  
 
