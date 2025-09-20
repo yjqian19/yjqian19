@@ -10,7 +10,7 @@
 - Industry: As a Software Engineering Intern at Crossing Legal AI, I built the AI backend and agent system for automated legal form-filling workflows.
 - Academic: As a co-first author, I published a paper in _IEEE Transactions on Visualization and Computer Graphics_ (JCR Q1) on multimodal data analysis and LSTM modeling of visitor behavior to support museum operations and cultural heritage management.
 
-🎮 Previously, I was an XR hacker, exploring the application of multimodal interaction and spatial intelligence.  
+🎮 Previously, I was an XR hacker, exploring the application of multimodal and spatial intelligence.  
 
 📸 Outside of work and study, I love photography and cooking.
 
